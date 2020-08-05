@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/streetsmart/static/js/main.4c378823.chunk.js",
+    "main.js.map": "/streetsmart/static/js/main.4c378823.chunk.js.map",
+    "runtime-main.js": "/streetsmart/static/js/runtime-main.8572c110.js",
+    "runtime-main.js.map": "/streetsmart/static/js/runtime-main.8572c110.js.map",
+    "static/js/2.c39ec661.chunk.js": "/streetsmart/static/js/2.c39ec661.chunk.js",
+    "static/js/2.c39ec661.chunk.js.map": "/streetsmart/static/js/2.c39ec661.chunk.js.map",
+    "index.html": "/streetsmart/index.html",
+    "precache-manifest.7c260c93e4df6fa0e55c23b6cc42029a.js": "/streetsmart/precache-manifest.7c260c93e4df6fa0e55c23b6cc42029a.js",
+    "service-worker.js": "/streetsmart/service-worker.js",
+    "static/js/2.c39ec661.chunk.js.LICENSE.txt": "/streetsmart/static/js/2.c39ec661.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8572c110.js",
+    "static/js/2.c39ec661.chunk.js",
+    "static/js/main.4c378823.chunk.js"
+  ]
+}
